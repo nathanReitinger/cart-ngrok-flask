@@ -4,5 +4,5 @@ An offshoot of [flask-ngrok](https://github.com/gstaff/flask-ngrok) (see also [f
 ## Installation
 
 ```bash
-pip3 install install ngrok-flask-cart==0.0.1
+pip3 install ngrok_flask_cart
 ```

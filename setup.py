@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ngrok-flask-cart",
-    version="0.0.1",
+    version="0.0.3",
     author="Nathan Reitinger",
     description="An offshoot of flask-ngrok for demo Flask apps using ngrok.",
     long_description=long_description,

@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: ngrok-flask-cart
-Version: 0.0.1
+Version: 0.0.3
 Summary: An offshoot of flask-ngrok for demo Flask apps using ngrok.
 Home-page: UNKNOWN
 Author: Nathan Reitinger
@@ -19,7 +19,7 @@ An offshoot of [flask-ngrok](https://github.com/gstaff/flask-ngrok) (see also [f
 ## Installation
 
 ```bash
-pip3 install flask-ngrok-CART
+pip3 install ngrok_flask_cart
 ```
 
 
